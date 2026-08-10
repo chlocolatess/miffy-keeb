@@ -1,4 +1,4 @@
-## 08/09/26: planning the keyboard
+## 08/09/26: planning the keyboard & starting schematics
 time: 3 hours
 
 my very first electronics project! i wanted something small and easy to do as someone new to electronics so i chose this project through hack club!
@@ -16,3 +16,13 @@ i moved onto the schematics in ki-cad and did a 4x6 matrix (im missing some keys
 <img width="1680" height="1188" alt="image" src="https://github.com/user-attachments/assets/92b4e36f-fa13-4d5b-a0b8-03e474f60da0" />
 
 i think there will be changes as i continue this project but i just hope to finish it by august 31 so i could submit it to hack club & i hope i learn a LOT of things from this project! i actually had a lot of fun learning new things today and i hope this grind and motivation is strong enough for me to finish 
+
+## 08/10/26: continuing schematics
+time: 
+
+i also forgot to say in the last journal that i added footprints to the pico, diodes, switches, and stabs (besides the mounting hole, and rotaary encoders because im still working on that today). i also think im just gonna scrap the RGB led idea because im running out of time and i think im gonna put too much time into trying to figuring out how it works. 
+
+ive finalized the schematics (i asked the slack to review it--no response) and checked it with the electrical rules checker to make sure everything is connected. it took me like an HOUR to figure out what was wrong with my matrix until i fixed it!!:
+<img width="1680" height="1188" alt="Screenshot 2026-08-10 at 4 25 17 PM" src="https://github.com/user-attachments/assets/e5017f1d-656f-4645-a422-98fa8c89057a" />
+
+i also started on the bom since i finished the footprints of the schematics
