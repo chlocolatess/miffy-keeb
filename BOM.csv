@@ -1,4 +1,13 @@
 quantity,part name,purpose,price,link
-1,raspberry pi pico,the brain of the keyboard,have,
+1, pcb, the board of the keyboard, tbd, no link
+1,raspberry pi pico,the brain of the keyboard,already have, no link
 20,clicky blue mx switches,clicky switches for the keyboard,$0.99,https://www.aliexpress.us/item/3256804099108371.html?algo_exp_id=689780e9-64fb-49a2-9789-624ce922a4de-0&pdp_ext_f=%7B%22order%22%3A%2211405%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004285423123%7C_p_origin_prod%3A
-1,rotary encoder,for the volume of the keyboard,$0.99,https://www.aliexpress.us/item/3256805796819763.html?algo_exp_id=25dd2aaf-8ed8-4445-aa21-28f0a4424575-0&pdp_ext_f=%7B%22order%22%3A%225947%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005983134515%7C_p_origin_prod%3A
+20, 1N4148 diodes, organizes rows and columns for microcontroller, $1.95, https://www.aliexpress.us/item/3256806058794623.html?algo_exp_id=09f56464-05d5-481a-ab43-d3d99c28c85b-1&pdp_ext_f=%7B%22order%22%3A%222815%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006245109375%7C_p_origin_prod%3A
+1,rotary encoder knob,for the outer aesthetic of the knkob,$1.80,https://www.aliexpress.us/item/3256805796819763.html?algo_exp_id=25dd2aaf-8ed8-4445-aa21-28f0a4424575-0&pdp_ext_f=%7B%22order%22%3A%225947%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005983134515%7C_p_origin_prod%3A
+1,rotary encoder,for the volume of the keyboard,$3.02,https://www.aliexpress.us/item/3256805796819763.html?algo_exp_id=25dd2aaf-8ed8-4445-aa21-28f0a4424575-0&pdp_ext_f=%7B%22order%22%3A%225947%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005983134515%7C_p_origin_prod%3A
+20,keycaps,for the outer aesthetic of the swithces,tbd, tbd
+3,stabilizers,for larger keys to be pressed down,$12.95,https://www.aliexpress.us/item/3256811931121642.html?algo_exp_id=377a236c-d58c-45cf-9d2e-c4d4b1e0414e-1&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012117436394%7C_p_origin_prod%3A
+1,case,for the outer aesthetic of the keyboard,3d printed,no link
+tbd,mounting hardware,to mount the pcb onto the keyboard,tbd,tbd
+
+**still working on BOM**
