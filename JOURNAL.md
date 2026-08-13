@@ -28,9 +28,23 @@ ive finalized the schematics (slack people helped me) and checked it with the el
 i also started on the bom since i finished the footprints of the schematics
 
 ## 08/11/26: continued BOM & started PCB design
+time: 3 hours
 
 i continued working on the BOM and filled out the things that i know that i need so far since i finished the schematics (finally)
 <img width="946" height="490" alt="Screenshot 2026-08-11 at 4 01 53 PM" src="https://github.com/user-attachments/assets/77013293-3cb2-4e1e-8ef2-5bb655fba60e" />
 
 i started working on the pcb (it looks a mess but it is a work in progress and i have school tomorrow). i did 19.05 spacing between each keys (idk how im gonna space it out for the rotary encoders, stabs, and what to do with the raspberry pi and the mounting holes, but that will be figured out soon):
 <img width="1680" height="1188" alt="Screenshot 2026-08-11 at 9 46 14 PM" src="https://github.com/user-attachments/assets/5d917dea-c670-4fe4-aeff-bdf3b1299bac" />
+
+## 08/12/26: continued PCB design
+time: 2 hours
+
+i continued working on the design of the PCB (i have to fix a LOT of things and do a LOT of things: fixing footprints so the switches and other elements are showing, figure out a way to place the raspberry pi, do ROUTING) and this is the current progress including its 3D model (please bare with me):
+
+<img width="1680" height="1188" alt="Screenshot 2026-08-12 at 11 08 38 PM" src="https://github.com/user-attachments/assets/4c2bd80f-8f14-4735-b3cc-654c1de13069" />
+<img width="407" height="618" alt="Screenshot 2026-08-12 at 11 10 42 PM" src="https://github.com/user-attachments/assets/0c736ee3-fe80-420c-bdfe-fd4765277545" />
+
+i dont think ive said this before but im going to do a top mount: 
+<img width="1080" height="504" alt="image" src="https://github.com/user-attachments/assets/46579e9d-646f-4a81-a1c8-be4bb8d9ac45" />
+
+wasnt able to accomplish a lot because sophomore year started for me today
