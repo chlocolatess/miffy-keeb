@@ -48,3 +48,13 @@ i dont think ive said this before but im going to do a top mount:
 <img width="1080" height="504" alt="image" src="https://github.com/user-attachments/assets/46579e9d-646f-4a81-a1c8-be4bb8d9ac45" />
 
 wasnt able to accomplish a lot because sophomore year started for me today
+
+## 08/17/26: started routing (very very very messy and will fix)
+time: 3 hours
+
+i began routing.. finally... and so far it looks like a COMPLETE mess because all im doing is just connecting the ratwires together (with 0 prior knowledge of what im doing)
+
+but i WILL fix the organization of it and figure out how to route it eventually.. just not today but here is the EXTREMELY messy progress that i've made after restarting 4 times:
+<img width="1680" height="1188" alt="Screenshot 2026-08-17 at 11 55 19 PM" src="https://github.com/user-attachments/assets/fcc6f383-eb8a-4f60-87a7-9362c3f4f266" />
+
+i also got rid of the mounting holes temporarily because they were bothering me with the routing and the pcb layout and i also got rid of the rectangle (basically the size of the pcb) for the same reason but i will bring both back. i also redid where im going to put my raspberry pi (theres a lot of empty space below it so i dont know what i will do with that or i might just leave it)
